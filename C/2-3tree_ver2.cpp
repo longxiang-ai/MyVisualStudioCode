@@ -1,0 +1,21 @@
+    // Node *jia = (Node *)malloc(sizeof(Node));
+    // root->left = jia;
+    // jia->NumOfElements = 2;
+    // jia->element[0] = 5;
+    // jia->element[1] = 4;
+    // jia->left = NULL;
+    // jia->mid = NULL;
+    // jia->right = NULL;
+    // jia->temp = NULL;
+    // jia->parent = root;
+
+    // Node *jia2 = (Node *)malloc(sizeof(Node));
+    // root->mid = jia2;
+    // jia2->NumOfElements = 2;
+    // jia2->element[0] = 5;
+    // jia2->element[1] = 2;
+    // jia2->left = NULL;
+    // jia2->mid = NULL;
+    // jia2->right = NULL;
+    // jia2->temp = NULL;
+    // jia2->parent = root;

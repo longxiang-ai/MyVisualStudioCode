@@ -1,0 +1,1 @@
+Note that the hardware, the scale of your set of documents, and setting of Hadoop (the number of Map Task and Reduce Task) may all have impact on the performance. You must give specific analysis on each factor.

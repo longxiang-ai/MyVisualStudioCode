@@ -1,0 +1,10 @@
+SQL functions are primarily a mechanism for extending the power of SQL to handle attributes of complex data types (like images),
+or to perform complex and non-standard operations.Embedded SQL is useful when imperative actions like displaying results and interacting with the user are needed.These cannot be done conveniently in an SQL only environment.Embedded SQL can be used instead of SQL functions by re-trieving data and then performing the function's operations on the SQL result.However a drawback is that a lot of query-evaluation functionality may end up getting repeated in the host language code.
+
+SQL函数主要是一种机制，用于扩展SQL的功能以处理复杂数据类型（如图像）的属性，或执行复杂的和非标准的操作。当需要执行强制性操作（例如显示结果和与用户进行交互）时，嵌入式SQL很有用。 这些操作无法在仅SQL的环境中方便地完成。可以通过重新获取数据然后对SQL结果执行函数的操作来使用嵌入式SQL代替SQL函数，但是缺点是很多查询评估功能 可能最终会在宿主语言代码中重复出现。
+
+SQL function: It can expand the function of basic SQL so as to process all kinds of complex data types, or perform some certain non-standard operations.
+
+Embedded SQL: It's useful when performing certain imperative actions which can't be completed in the environment with only SQL.
+
+Embedded SQL can be used instead of SQL functions by re-trieving data and then performing the function's operations on the SQL result.However a drawback is that a lot of query-evaluation functionality may end up getting repeated in the host language code.
